@@ -62,20 +62,13 @@ Our vision is to revolutionize environmental funding by creating a decentralized
  
 **Mainnet Deployment:**
 - **Network**: Stacks Mainnet
-- **Contract Address**: [To be updated after deployment]
-- **Contract Name**: environmental-dao-fund
-- **Deployment Transaction**: [To be updated after deployment]
-- **Block Height**: [To be updated after deployment]
 
 **Testnet Deployment:**
 - **Network**: Stacks Testnet
-- **Contract Address**: [To be updated after testnet deployment]
 - **Contract Name**: environmental-dao-fund-testnet
-- **Deployment Transaction**: [To be updated after testnet deployment]
 
 **Contract Verification:**
 - **Source Code**: Publicly available and verified on Stacks Explorer
-- **Audit Status**: [To be updated after security audit]
 - **License**: MIT Open Source License
 
 ---
